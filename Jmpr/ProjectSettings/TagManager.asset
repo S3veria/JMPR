@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 3122267805
+    locked: 0
+  - name: fore
+    uniqueID: 1824063065
+    locked: 0
+  - name: rain
+    uniqueID: 2212495273
+    locked: 0
+  - name: Normal upgrades
+    uniqueID: 1674778193
+    locked: 0
+  - name: MAX UPGRADES
+    uniqueID: 3557255583
+    locked: 0
+  - name: Buy powerup
+    uniqueID: 2869608319
+    locked: 0
